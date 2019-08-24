@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1ba8684-baf3-48a7-b909-bf75c25a103a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/actions/techActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/techs/TechSelectOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/techReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/logActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/logActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/AddLogModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/EditLogModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/logs/LogItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/LogItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logs/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logs/Logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/AddTechModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/TechItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/TechItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/techs/TechListModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/techs/TechListModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducers/logReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/logReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566399360911</updated>
-      <workItem from="1566399362590" duration="14473000" />
+      <workItem from="1566399362590" duration="19347000" />
     </task>
     <task id="LOCAL-00001" summary="lesson">
       <created>1566484676498</created>
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566497301986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="redux">
+      <created>1566583131290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566583131290</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

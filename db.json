@@ -1,20 +1,32 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "sdfdfdsf1111",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-08-24T09:26:12.540Z"
+    },
+    {
+      "id": 2,
+      "message": "sasdasdasdasds",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-08-24T10:01:27.845Z"
+    },
+    {
+      "message": "acsacas",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-08-24T10:00:27.077Z",
+      "id": 3
+    }
+  ],
   "techs": [
     {
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
     }
   ]
 }
